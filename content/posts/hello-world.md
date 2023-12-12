@@ -1,7 +1,7 @@
 +++
 title = 'Hello World From a Human Person'
 date = 2023-12-11T20:55:02-05:00
-draft = true
+draft = false
 +++
 
 I'm Eileen Noonan. I'm an [actress](https://eileenmnoonan.com). I'm a writer. I'm a computer programmer. I try to be a good friend, a good sister, a good daughter, a good aunt, a good person. I don't know that I'll ever get to be a mother of any kind. I'm transgender. First and foremost I am a human fucking being. Can we all be human beings? 
